@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1471422689 source:d:\baiduyundownload\c\mingw32\cprimerplus\lesson11\example\sort_str.c\main.c
+	<stdio.h>
+	<string.h>
+

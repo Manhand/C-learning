@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1465039655 source:d:\软件大全\学习软件\c语言\c primer plus\第四章\例程\example4_5\main.c
+	<stdio.h>
+	<limits.h>
+	<float.h>
+
