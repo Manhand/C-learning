@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1478313821 source:d:\baiduyundownload\c\mingw32\cprimerplus\lesson12\example\global\testclass\parta.c
+	<stdio.h>
+
+1478315819 source:d:\baiduyundownload\c\mingw32\cprimerplus\lesson12\example\global\testclass\partb.c
+	<stdio.h>
+
